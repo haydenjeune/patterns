@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "~/.virtualenvs/patterns/bin/python",
+    "python.formatting.provider": "black"
+}
